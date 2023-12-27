@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T14:28:37 IST" name="Default suite" finished-at="2023-12-26T14:29:32 IST" duration-ms="54423">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T14:28:37 IST" name="Default test" finished-at="2023-12-26T14:29:32 IST" duration-ms="54423">
+      <class name="com.newtour.TestCases.TC_NewtourTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:28:37 IST" name="launchBrowser" finished-at="2023-12-26T14:28:57 IST" duration-ms="20014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyRegister()[pri:1, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:28:57 IST" name="verifyRegister" finished-at="2023-12-26T14:29:05 IST" duration-ms="8146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegister -->
+        <test-method signature="clickOnSignOff()[pri:2, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:05 IST" name="clickOnSignOff" finished-at="2023-12-26T14:29:06 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignOff -->
+        <test-method signature="clickOnSignin()[pri:3, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:06 IST" name="clickOnSignin" finished-at="2023-12-26T14:29:15 IST" duration-ms="9304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignin -->
+        <test-method signature="Flight()[pri:4, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:15 IST" name="Flight" description="This is for Flight Registerations" finished-at="2023-12-26T14:29:23 IST" duration-ms="7316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight -->
+        <test-method signature="Hotels()[pri:5, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:23 IST" name="Hotels" description="This site is for Hotel Enquiries" finished-at="2023-12-26T14:29:25 IST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hotels -->
+        <test-method signature="carRent()[pri:6, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:25 IST" name="carRent" description="This site is for Car Rental Enquiries" finished-at="2023-12-26T14:29:26 IST" duration-ms="1664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carRent -->
+        <test-method signature="Destination()[pri:7, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:26 IST" name="Destination" description="This site is for Destination Enquiries" finished-at="2023-12-26T14:29:29 IST" duration-ms="2212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Destination -->
+        <test-method signature="Vacations()[pri:8, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:29 IST" name="Vacations" description="This site is for Vacations Enquiries" finished-at="2023-12-26T14:29:31 IST" duration-ms="2717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Vacations -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.newtour.TestCases.TC_NewtourTest@6a6cb05c]" started-at="2023-12-26T14:29:31 IST" name="closeBrowser" finished-at="2023-12-26T14:29:32 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.newtour.TestCases.TC_NewtourTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
